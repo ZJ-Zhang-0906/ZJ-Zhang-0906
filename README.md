@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZJ-Zhang-0906
-- 👀 I’m interested in Front-end engineer
+- 👀 I’m interested in Front-end engineer and full-stack engineer
 - 🌱 I’m currently learning Front-end and back-end related
 - 💞️ I’m looking to collaborate on REACT
 - 📫 How to reach me gmail: s21113107@stu.edu.tw
