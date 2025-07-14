@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on JavaScript 
 - 📫 How to reach me gmail: s21113107@stu.edu.tw
 - 😄 Pronouns: ZJ
-- ⚡ Fun fact: 哭
+
 
 <!---
 ZJ-Zhang-0906/ZJ-Zhang-0906 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
